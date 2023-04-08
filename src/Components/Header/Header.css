@@ -1,0 +1,18 @@
+nav {
+    background-color: #2A1B3D;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav a{
+    color: aliceblue;
+    font-size: 16px;
+    text-decoration: none;
+    margin-right: 16px;
+}
+
+nav a:hover{
+    color: #D83F87;
+}

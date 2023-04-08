@@ -1,0 +1,38 @@
+[
+  {
+    "id": "62b2b196b61db421e82d8c75",
+    "review": "A stylish electric urban commuter that feels and looks beautifully built",
+    "ratings": "4/5",
+    "img": "./images/player-1.png"
+  },
+  {
+    "id": "62b2b1968a3d98e02636bc16",
+    "review": "Overall it's okay, but buying a good one is a mine field due to owners. I'd not recommended one as they cost in maintenance unless you know how to use tools.",
+    "ratings": "4/5",
+    "img": "./images/player-2.png"
+  },
+  {
+    "id": "62b2b19681b94257367ec595",
+    "review": "The Horwin CR6 mixes retro styling with electric power and can get you across town for just a penny a mile",
+    "ratings": "4/5",
+    "img": "./images/player-3.png"
+  },
+  {
+    "id": "62b2b1960b2bf417ad2ac92f",
+    "review": "It's more than just a motorway cruiser, it's an unlikely performance bike, too",
+    "ratings": "4/5",
+    "img": "./images/player-4.png"
+  },
+  {
+    "id": "62b2b196583ed7e45cb0f55d",
+    "review": "As a road bike, it's very hard to fault and I never stopped smiling on the XSR.",
+    "ratings": "4/5",
+    "img": "./images/player-5.png"
+  },
+  {
+    "id": "62b2b196a7eebf17f898b52e",
+    "review": "Everything that's good about a standard Ténéré plus a bit more",
+    "ratings": "4/5",
+    "img": "./images/player-6.jpg"
+  }
+]

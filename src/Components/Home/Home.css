@@ -1,0 +1,15 @@
+.review-button{
+    margin-top: 30px;
+    background-color: #D83F87;
+    padding: 10px 50px;
+    border: none;
+    font-size: 30px;
+    border-radius: 25px;
+}
+
+.review-button a{
+    text-decoration: none;
+    color: whitesmoke;
+    
+
+}

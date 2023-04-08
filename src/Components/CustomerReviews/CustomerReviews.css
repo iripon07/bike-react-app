@@ -1,0 +1,20 @@
+.customer-reviews1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.customer-reviews{
+    margin-top: 60px;
+}
+
+.customer-reviews h1{
+    color: #2E151B;
+    font-size: 36px;
+}
+
+.customer-review{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
